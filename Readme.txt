@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+# This is my portfolio website that I created using HTML, CSS, and JavaScript. It is a simple website that showcases my projects and provides a brief introduction about myself. The website is responsive and works well on all devices. I have also included a contact form that allows visitors to send me a message directly from the website. The website is hosted on GitHub Pages and can be accessed at the following link
